@@ -1,4 +1,4 @@
-module profittrailer_api
+module github.com/jokaorgua/profittrailer_api
 
 go 1.16
 
